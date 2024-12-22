@@ -1,0 +1,43 @@
+h1 {
+    background-color: darkred;
+    color: white;
+    border-style: dashed;
+    border-color:darkred;
+    text-align: center;
+}
+h2 {
+    background-color: darkred;
+    color: white;
+    text-align: center;
+
+}
+th {
+    background-color: darkred;
+    color:white;
+}
+td {
+    background-color: black;
+    color: white;
+}
+body {
+    background-color: burlywood;
+}
+.icon {
+    justify-content: space-evenly;
+align-items: center;
+display: flex;
+background-color: brown;
+height: 50px;
+}
+.icon:hover {
+    border: 2px solid black;
+}
+textarea {
+    height: 90px;
+    width: 250px;
+    background-color: brown;
+    color: black;
+    border-style: double;
+    border-color: black;
+    border-width: 20px;
+}
